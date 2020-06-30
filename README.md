@@ -1,7 +1,7 @@
 # X
 The pauper's CamScanner
 
-CamScanner is [one of the apps that has been banned in India] following skirmishes between India and China.(https://economictimes.indiatimes.com/tech/software/india-bans-59-chinese-apps-including-tiktok-helo-wechat/articleshow/76694814.cms)
+CamScanner is [one of the apps that has been banned in India](https://economictimes.indiatimes.com/tech/software/india-bans-59-chinese-apps-including-tiktok-helo-wechat/articleshow/76694814.cms) following skirmishes between India and China.
 
 It is an amazing App with a lot of practical uses - and so we decided to make our own version of CamScanner!
 
