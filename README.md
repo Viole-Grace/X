@@ -19,4 +19,4 @@ $python3 scanner.py
 - WebApp - Flask
 - Android App - Kivy
 
-# Authors : Aamir Syed, Hrishikesh Koli, Prakhar Singh
+# Authors : Aamir Syed
